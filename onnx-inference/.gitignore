@@ -1,0 +1,6 @@
+build/*
+.cache/*
+.vscode/*
+third-party/*
+
+data/model/resnet50-v1-12.onnx
